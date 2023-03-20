@@ -1,0 +1,12 @@
+---
+title: "Personal Science Tips"
+
+---
+
+Here is our collection of tips for aspiring Personal Scientists.
+
+[Microbiome](microbiome/microbiome.qmd)
+
+[CGM](https://diycgm.com)
+
+

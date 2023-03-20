@@ -1,0 +1,69 @@
+---
+title: "My Results"
+custom_order: 2
+image: microbiome-assets/microbiome_report_sample.jpg
+---
+
+Full reports from my microbiome tests.
+
+
+Reports I received from common microbiome providers. Study these if you're curious what results will look like, or if you'd like to compare yours to mine.
+
+## Tiny Health
+Tiny Health focuses on the infant microbiome, but the same WGS technology will work in adults too, of course. Here's the result of a sample I took on 
+[Tiny Health 2022-11-21](https://richardsprague.com/docs/microbiome/tinyhealth/sprague-2022-11-21.pdf)
+
+## Bristle Oral Microbiome
+
+[Examples](https://github.com/personalscience/bristlehealth) of my analysis.
+
+[My reports](https://github.com/personalscience/bristlehealth/tree/main/data)
+
+[![Bristle oral microbiome AM/PM differences](https://github.com/personalscience/bristlehealth/blob/main/bristle_day_files/figure-gfm/dayanimation-1.gif?raw=true)](https://github.com/personalscience/bristlehealth/blob/main/bristle_day.md)
+
+## Zoe
+**Zoe** New app from [https://joinzoe.com/](https://joinzoe.com/)
+
+* [Zoe Insights 2](https://richardsprague.com/docs/microbiome/Zoe%2020210406%20Insights.pdf)
+* [Zoe Insights](https://richardsprague.com/docs/microbiome/Zoe%2020200806%20Insights.pdf)
+* [Zoe recommended 4-week plan](https://richardsprague.com/docs/microbiome/Zoe%2020200806%20Plan.pdf)
+
+
+
+## Psomagen / Kean Health
+
+Psomagen bought the assets of uBiome and recently rebranded to [Kean Health](https://www.keanhealth.com/)
+
+**Psomagen GutBiome+** WGS microbiome report from a US-based lab using the Microba engine.
+
+* [Psomagen GutBiome+ May 2020](https://RichardSprague.com/docs/microbiome/Richard-Sprague-Psomagen-GutBiomePlus-2020-05-21.pdf)
+
+## DayTwo
+
+[DayTwo](https://richardsprague.com/docs/DayTwo-user-6019-mb-report.pdf)
+
+## Other
+
+**Microba** Australia-based, now available for clinicians in the US
+
+* [Microba Jan 2020](https://richardsprague.com/docs/microbiome/Richard-Sprague-Microba-2020-Jan-BBD4034-Report-Update.pdf) *Report updated Sep 2020. ([original](https://richardsprague.com/docs/Richard-Sprague-Microba-2020-Jan-BBD4034-Report.pdf))
+
+**[Elsavie](https://www.elsavie.com/)** Center of Food and Fermentation Technologies (TFTAK) of Estonia
+
+* [Elsavie July 2020](http://richardsprague.com/docs/microbiome/tftak-elsavie-2020-07-14-15076991.pdf)
+
+
+## Viome{#sec-Viome-results}
+[Viome](https://richardsprague.com/tags/viome/):
+
+* [Viome Recommendations Oct 2022](https://richardsprague.com/docs/microbiome/ViomeRecommendations_2022-09-27.pdf)
+* [Viome Results Oct 2022](https://richardsprague.com/docs/microbiome/ViomeGutIntelligenceResults_2022-09-27.pdf)
+
+
+* [Viome Recommendations May 2020](https://richardsprague.com/docs/microbiome/ViomeGutIntelligenceRecommendations2020.pdf)
+* [Viome Results May 2020](https://richardsprague.com/docs/microbiome/ViomeGutIntelligenceResults2020.pdf)
+
+* [Viome Recommendations Sep 2019](https://richardsprague.com/docs/Viome2019recommendations.pdf)
+
+* [Viome Recommendations May 2020](https://RichardSprague.com/docs/microbiome/ViomeGutIntelligenceRecommendations2020.pdf)
+

@@ -1,0 +1,22 @@
+---
+title: "Microbiome"
+listing: 
+    categories: true
+    feed: true
+    sort: custom_order
+    type: grid
+    # contents:
+    #  - microbiome-data.qmd
+    #  - microbiome-podcasts.qmd
+    #  - microbiome-reviews.qmd
+    #  - microbiome-science.qmd
+    #  - psm.qmd
+    #  - viome_recommendations.qmd
+    #  - 2017-11-30-getting-started-with-deep-learning-and-the-microbiome.md
+    #  - 2018-05-05-sound-of-the-microbiome.md
+---
+
+
+For more articles see my [Personal Science and the Microbiome](https://medium.com/microbiome) on Medium.
+
+---

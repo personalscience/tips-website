@@ -1,0 +1,27 @@
+---
+title: "Microbiome Reviews"
+custom_order: 3
+image: microbiome-assets/logo-neodotlife.jpeg
+---
+
+Products I've tested.
+
+[Bristle Health oral microbiome](https://neo.life/2022/09/its-now-possible-to-track-your-oral-microbiome/) test:
+
+<a href = "https://neo.life/2022/09/its-now-possible-to-track-your-oral-microbiome/"> <img src="https://images.weserv.nl/?url=images.weserv.nl/?url=neo.life/wp-content/uploads/2022/09/oral-microbiome-health-tracking-quantitative-self.jpg&maxage=31d&output=webp&il&w=1390&q=86&output=webp&q=90&w=1390" float="left" width="200" /> </a>
+
+
+ZOE microbiome-based [personalized nutrition app](https://neo.life/2020/10/let-your-gut-be-your-guide/). 
+
+<a href = "https://neo.life/2020/10/let-your-gut-be-your-guide/"> <img src="https://neo.life/wp-content/uploads/2020/10/michael-hoeweler-neo-life-zoe-large-scaled.jpg" float="left" width="200"/> </a>
+
+["So Should I Eat Apples or Not?"](https://medium.com/neodotlife/review-of-viome-f024423a3d3a)
+Original review of the Viome microbiome gut test.
+
+ <a href = "https://medium.com/neodotlife/review-of-viome-f024423a3d3a)"> <img src="https://cdn-images-1.medium.com/max/600/1*G_-gVv5PAU91ew2Aeg61Tg.jpeg" float="left" width="100"/> </a>
+
+["When a Double-Chocolate Brownie is Better for You Than Quinoa"](https://medium.com/neodotlife/review-of-daytwo-microbiome-test-deacd5464cd5) 
+
+My review of the new DayTwo microbiome testing app. Published by NEO.LIFE
+
+<a href = "https://medium.com/neodotlife/review-of-daytwo-microbiome-test-deacd5464cd5"> <img src="https://cdn-images-1.medium.com/max/2000/1*D-itiGNZYQ4qhe7oElO78w.jpeg" float="left" width="200"/> </a>

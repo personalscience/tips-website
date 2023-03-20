@@ -1,0 +1,18 @@
+---
+title: "Science"
+custom_order: 6
+image: microbiome-assets/kombuchaBarChart.jpeg
+---
+
+Experiments and other detailed analysis.
+
+---
+
+[Fusicatenibacter Is Associated With Kefir Drinking](https://www.biorxiv.org/content/early/2017/11/15/218313) My preprint academic paper, submitted to peer review, about a microbe association I discovered in a self-experiment.
+
+[How does kombucha affect the microbiome](https://github.com/richardsprague/kombucha) Tracking my microbiome while drinking kombucha.
+
+<a href = "https://github.com/richardsprague/kombucha"> <img src="https://raw.githubusercontent.com/richardsprague/kombucha/master/kombuchaBarChart.jpg" width="200"/> </a>
+
+
+[Surfing the Microbiome](https://ndnr.com/naturopathic-news/surfing-the-microbiome-interview-with-richard-sprague/): Interview with Mark Swanson in Naturopathic Doctor News & Review. <a href = "https://ndnr.com/naturopathic-news/surfing-the-microbiome-interview-with-richard-sprague/"> <img src="https://ndnr.com/wp-content/uploads/2015/07/Unknown-e1441145316861.png" float="left" width="200"/> </a>

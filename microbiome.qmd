@@ -1,0 +1,200 @@
+---
+title: Microbiome
+show_toc: TRUE
+---
+
+------------------------------------------------------------------------
+
+I work on [projects](https://personalscience.com) that make it easy for normal people to understand their microbiome test results. If you've tested yourself with Viome, DayTwo, Zoe, Thryve, Psomagen, uBiome or others, please [contact me](mailto:richardsprague+microbe@gmail.com) and I'll be happy to help you.
+
+Browse or download [Personal Science Guide to the Microbiome](https://psm.personalscience.com/), my free 300+ page eBook of pretty much everything I know about the microbiome.
+
+------------------------------------------------------------------------
+
+# Best Links
+
+## Reviews
+
+[Bristle Health oral microbiome](https://neo.life/2022/09/its-now-possible-to-track-your-oral-microbiome/) test:
+
+<a href = "https://neo.life/2022/09/its-now-possible-to-track-your-oral-microbiome/"> <img src="https://images.weserv.nl/?url=images.weserv.nl/?url=neo.life/wp-content/uploads/2022/09/oral-microbiome-health-tracking-quantitative-self.jpg&maxage=31d&output=webp&il&w=1390&q=86&output=webp&q=90&w=1390" float="left" width="200" /> </a>
+
+
+ZOE microbiome-based [personalized nutrition app](https://neo.life/2020/10/let-your-gut-be-your-guide/). 
+
+<a href = "https://neo.life/2020/10/let-your-gut-be-your-guide/"> <img src="https://neo.life/wp-content/uploads/2020/10/michael-hoeweler-neo-life-zoe-large-scaled.jpg" float="left" width="200"/> </a>
+
+["So Should I Eat Apples or Not?"](https://medium.com/neodotlife/review-of-viome-f024423a3d3a)
+Original review of the Viome microbiome gut test.
+
+ <a href = "https://medium.com/neodotlife/review-of-viome-f024423a3d3a)"> <img src="https://cdn-images-1.medium.com/max/600/1*G_-gVv5PAU91ew2Aeg61Tg.jpeg" float="left" width="100"/> </a>
+
+["When a Double-Chocolate Brownie is Better for You Than Quinoa"](https://medium.com/neodotlife/review-of-daytwo-microbiome-test-deacd5464cd5) 
+
+My review of the new DayTwo microbiome testing app. Published by NEO.LIFE
+
+<a href = "https://medium.com/neodotlife/review-of-daytwo-microbiome-test-deacd5464cd5"> <img src="https://cdn-images-1.medium.com/max/2000/1*D-itiGNZYQ4qhe7oElO78w.jpeg" float="left" width="200"/> </a>
+
+
+
+## Podcasts
+
+[The Feed Global Podcast](https://anchor.fm/thefeedglobal/episodes/004--Personalized-nutrition-and-the-gut-microbiome-with-Richard-Sprague-eftm8b) 
+
+
+<a href = "https://anchor.fm/thefeedglobal/episodes/004--Personalized-nutrition-and-the-gut-microbiome-with-Richard-Sprague-eftm8b"> <img src="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/854498/854498-1589342429393-e741a03f1071b.jpg" float="left" width="200"/> </a>
+
+
+[Microbiome Labs: How Actionable Are They Today? In the Future?](https://thequantifiedbody.net/microbiome-labs-richard-sprague/): Podcast interview with Damien Blenkinsopp
+
+
+<a href = "https://thequantifiedbody.net/microbiome-labs-richard-sprague/"> <img src="https://thequantifiedbody.net/wp-content/uploads/2018/03/Episode-Header-Template-ep51-1-1024x300.png" float="left" width="200"/> </a>
+
+
+
+
+## Scientific
+
+[Fusicatenibacter Is Associated With Kefir Drinking](https://www.biorxiv.org/content/early/2017/11/15/218313) My preprint academic paper, submitted to peer review, about a microbe association I discovered in a self-experiment.
+
+[How does kombucha affect the microbiome](https://github.com/richardsprague/kombucha) Tracking my microbiome while drinking kombucha.
+
+<a href = "https://github.com/richardsprague/kombucha"> <img src="https://raw.githubusercontent.com/richardsprague/kombucha/master/kombuchaBarChart.jpg" width="200"/> </a>
+
+
+[Surfing the Microbiome](https://ndnr.com/naturopathic-news/surfing-the-microbiome-interview-with-richard-sprague/): Interview with Mark Swanson in Naturopathic Doctor News & Review. <a href = "https://ndnr.com/naturopathic-news/surfing-the-microbiome-interview-with-richard-sprague/"> <img src="https://ndnr.com/wp-content/uploads/2015/07/Unknown-e1441145316861.png" float="left" width="200"/> </a>
+
+## Other
+
+
+I also manage [Personal Science and the Microbiome](https://medium.com/microbiome) on Medium.
+
+
+
+<iframe src="https://player.vimeo.com/video/164766486?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+
+</iframe>
+
+<p><a href="https://vimeo.com/164766486">Richard Sprague: &quot;Microbiome Gut Cleanse&quot;</a> from <a href="https://vimeo.com/qslabs">Quantified Self</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+
+------------------------------------------------------------------------
+
+# My Sample Results
+
+<details>
+<summary>Click this expansion arrow see see downloadable copies of my results.
+</summary>
+<div>
+
+Reports I received from common microbiome providers. Study these if you're curious what results will look like, or if you'd like to compare yours to mine.
+
+**Bristle** Oral Microbiome results
+
+[Examples](https://github.com/personalscience/bristlehealth) of my analysis.
+
+[My reports](https://github.com/personalscience/bristlehealth/tree/main/data)
+
+**Zoe** New app from [https://joinzoe.com/](https://joinzoe.com/)
+
+* [Zoe Insights 2](https://richardsprague.com/docs/microbiome/Zoe%2020210406%20Insights.pdf)
+* [Zoe Insights](https://richardsprague.com/docs/microbiome/Zoe%2020200806%20Insights.pdf)
+* [Zoe recommended 4-week plan](https://richardsprague.com/docs/microbiome/Zoe%2020200806%20Plan.pdf)
+
+**Microba** Australia-based, now available for clinicians in the US
+
+* [Microba Jan 2020](https://richardsprague.com/docs/microbiome/Richard-Sprague-Microba-2020-Jan-BBD4034-Report-Update.pdf) *Report updated Sep 2020. ([original](https://richardsprague.com/docs/Richard-Sprague-Microba-2020-Jan-BBD4034-Report.pdf))
+
+**[Elsavie](https://www.elsavie.com/)** Center of Food and Fermentation Technologies (TFTAK) of Estonia
+
+* [Elsavie July 2020](http://richardsprague.com/docs/microbiome/tftak-elsavie-2020-07-14-15076991.pdf)
+
+**Psomagen GutBiome+** WGS microbiome report from a US-based lab using the Microba engine.
+
+* [Psomagen GutBiome+ May 2020](https://RichardSprague.com/docs/microbiome/Richard-Sprague-Psomagen-GutBiomePlus-2020-05-21.pdf)
+
+[DayTwo](https://richardsprague.com/docs/DayTwo-user-6019-mb-report.pdf)
+
+## Viome{#sec-Viome-results}
+[Viome](https://richardsprague.com/tags/viome/):
+
+* [Viome Recommendations Oct 2022](https://richardsprague.com/docs/microbiome/ViomeRecommendations_2022-09-27.pdf)
+* [Viome Results Oct 2022](https://richardsprague.com/docs/microbiome/ViomeGutIntelligenceResults_2022-09-27.pdf)
+
+
+* [Viome Recommendations May 2020](https://richardsprague.com/docs/microbiome/ViomeGutIntelligenceRecommendations2020.pdf)
+* [Viome Results May 2020](https://richardsprague.com/docs/microbiome/ViomeGutIntelligenceResults2020.pdf)
+
+* [Viome Recommendations Sep 2019](https://richardsprague.com/docs/Viome2019recommendations.pdf)
+
+* [Viome Recommendations May 2020](https://RichardSprague.com/docs/microbiome/ViomeGutIntelligenceRecommendations2020.pdf)
+
+
+</div>
+</details>
+
+# Archive
+
+<details>
+<summary>Click this expansion arrow for older items
+</summary>
+<div>
+
+[uBiome official Python Utilities](https://github.com/ubiome-opensource/microbiome-tools/blob/master/docs/howto/analyze_your_ubiome_results_in_python.md) Open source Python module for analyzing your uBiome results. 
+
+[How to interpret your uBiome results](http://radar.oreilly.com/2015/07/announcing-biocoder-issue-8.html): My article in O'Reilly's BioCoder.
+
+<a href = "http://radar.oreilly.com/2015/07/announcing-biocoder-issue-8.html">
+<img src="/microbiome/biocoder18Cover.gif" width="100"/>
+</a>
+
+
+</div>
+</details>
+
+------------------------------------------------------------------------
+
+# More Posts
+
+Most of these are available in final form at <https://psm.personalscience.com>, but I often post them here first, sometimes along with the detailed source code I used to generate the results.
+
+[click here](https://richardsprague.com/tags/microbiome/)
+
+
+<!--
+<details>
+<summary>**Posts to the uBiome blog**</summary>
+No longer available: stay tuned
+
+<div>
+[Experimenting with a gut cleanse](http://www.ubiomeblog.com/experimenting-with-a-gut-cleanse-by-richard-sprague/): before/during/after results from a one-month experiment.
+
+[Hacking my sleep with uBiome](http://www.ubiomeblog.com/hacking-sleep/) and [an update](http://www.ubiomeblog.com/my-ubiome-sleep-hacking-update/).
+
+<p><a href="http://www.ubiomeblog.com/looking-mouth-microbiome/">Looking into my mouth microbiome</a>: testing myself at the dentist.</p>
+
+<p><a href="http://www.ubiomeblog.com/one-week-change-in-my-microbiome/">One week change in my microbiome</a>: a before/after test with detailed food tracking.</p>
+
+<p><a href="http://www.ubiomeblog.com/my-microbiome-in-the-jungle/">My microbiome in the jungle</a>: how my gut biome changed during a trip to Central America.</p>
+</div>
+</details>
+<details>
+<summary><b>Technical uBiome posts</b></summary>
+<div>
+
+<p><a href="http://www.ubiomeblog.com/what-do-i-do-with-my-raw-data/">What do I do with my raw data?</a></p>
+
+<p><a href="http://www.ubiomeblog.com/invitation-to-join-the-ubiome-github-repository/">Invitation to the uBiome open source repository</a></p>
+
+<p><a href="http://www.ubiomeblog.com/all-my-ubiome-results-in-a-single-table/">How to make a single table of your uBiome results</a></p>
+
+
+
+<p><a href="http://blog.richardsprague.com/2015/01/how-to-analyze-ubiome-sample-in-excel.html">How to analyze a uBiome sample in Excel</a></p>
+
+
+</div>
+</details>
+
+-->

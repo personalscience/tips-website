@@ -1,0 +1,14 @@
+---
+title: "Personal Science Guide to the Microbiome"
+custom_order: 1
+image: microbiome-assets/coverPersonalScience-quarto.jpg
+description: The definitive guide to microbiome testing
+contents:
+    - name: PS Guide
+      href: https://personalscience.github.io/psm-quarto/
+---
+
+My free ebook summary of everything I've learned about the microbiome through my hundreds of near-daily tests.
+
+[![](microbiome-assets/coverPersonalScience-quarto.jpg){width="400"}](https://personalscience.github.io/psm-quarto/)
+

@@ -1,0 +1,23 @@
+project:
+  type: website
+  preview:
+    port: 4200
+
+google-analytics: G-4RNWXLMEJR
+
+website:
+  title: "Personal Science Tips"
+  site-url: https://tips.personalscience.com
+  navbar:
+    left:
+      - href: microbiome/microbiome.qmd
+        text: Microbiome
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,33 @@
+---
+title: "Podcasts"
+---
+
+My microbiome-related discussions with interesting people.
+
+***
+
+<!-- 
+[![The Feed Global Podcast](microbiome-assets/logo-thefeedpodcast.jpeg){width="20%" float="left"}](https://anchor.fm/thefeedglobal/episodes/004--Personalized-nutrition-and-the-gut-microbiome-with-Richard-Sprague-eftm8b) 
+
+ -->
+<a href = "https://anchor.fm/thefeedglobal/episodes/004--Personalized-nutrition-and-the-gut-microbiome-with-Richard-Sprague-eftm8b"> <img src="microbiome-assets/logo-thefeedpodcast.jpeg" float="left" width="200"/> </a>
+
+
+[Microbiome Labs: How Actionable Are They Today? In the Future?](https://thequantifiedbody.net/microbiome-labs-richard-sprague/): 
+Two-hour in-depth discussion with Damien Blenkinsopp
+
+
+<a href = "https://thequantifiedbody.net/microbiome-labs-richard-sprague/"> <img src="microbiome-assets/logo-quantifiedbodypodcast.jpg" float="left" width="200"/> </a>
+
+
+
+[![Post Meal Glucose Response With Richard Sprague episode #2](microbiome-assets/logo-onethingpodcast.jpeg)](https://anchor.fm/adam-rinde/episodes/Post-Meal-Glucose-Response-With-Richard-Sprague-episode-2-e3h86h)
+
+
+
+<iframe src="https://player.vimeo.com/video/164766486?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+
+</iframe>
+
+<p><a href="https://vimeo.com/164766486">Richard Sprague: &quot;Microbiome Gut Cleanse&quot;</a> from <a href="https://vimeo.com/qslabs">Quantified Self</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
