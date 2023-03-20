@@ -9,6 +9,8 @@ _freeze/
 
 .DS_Store
 
+publish.sh
+
 
 # R Environment Variables
 .Renviron

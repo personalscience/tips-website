@@ -5,10 +5,16 @@ project:
 
 google-analytics: G-4RNWXLMEJR
 
+execute:
+  freeze: auto
+
 website:
   title: "Personal Science Tips"
   site-url: https://tips.personalscience.com
+  favicon: assets/favicon.ico
   navbar:
+    logo: assets/psi-LogoOnly.png
+    logo-href: https://personalscience.com
     left:
       - href: microbiome/microbiome.qmd
         text: Microbiome
