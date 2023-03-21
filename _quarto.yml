@@ -18,12 +18,16 @@ website:
     left:
       - href: microbiome/microbiome.qmd
         text: Microbiome
+      - href: https://diycgm.com
+        text: CGM
 
 format:
   html:
     theme: litera
     css: styles.css
     toc: true
+    link-external-newwindow: true
+    
 
 
 

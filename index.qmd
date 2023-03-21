@@ -3,7 +3,9 @@ title: "Personal Science Tips"
 
 ---
 
-Here is our collection of tips for aspiring Personal Scientists.
+This page is under construction.
+Meanwhile, click the following links for more tips.
+
 
 [Microbiome](microbiome/microbiome.qmd)
 
